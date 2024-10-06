@@ -1,0 +1,5 @@
+Início
+Entrada: Solicitar "Quantas horas durou sua atividade?" e armazenar em tempoEmHoras
+Processamento: Calcular o tempo em minutos multiplicando tempoEmHoras por 60 e armazenar em tempoEmMinutos
+Saída: Exibir o valor de tempoEmMinutos com alert()
+Fim

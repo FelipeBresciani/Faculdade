@@ -1,0 +1,15 @@
+Início: Começo do processo.
+
+Entrada do Salário Atual: Pede o salario atual.
+
+Entrada do Percentual de Aumento: pede o percentual de aumento.
+
+Conversão para Número: Converte de string para number.
+
+Calcular Valor do Aumento: Multiplicar o salário atual pelo percentual e dividir por 100.
+
+Calcular Novo Salário: Somar o valor do aumento ao salário atual.
+
+Exibir Novo Salário: Mostrar o novo salário.
+
+Fim: Encerrar o processo.

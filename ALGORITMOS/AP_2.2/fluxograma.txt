@@ -1,0 +1,13 @@
+Início: O fluxo começa.
+
+Entrada (baseMaior): Exibe um prompt solicitando "Digite a base Maior do trapézio" e armazena o valor na variável baseMaior.
+
+Entrada (baseMenor): Exibe um prompt solicitando "Digite a base Menor do trapézio" e armazena o valor na variável baseMenor.
+
+Entrada (altura): Exibe um prompt solicitando "Digite a Altura do trapézio" e armazena o valor na variável altura.
+
+Processo: Calcula a área do trapézio usando a fórmula ((baseMaior + baseMenor) * altura) / 2 e armazena o resultado na variável result.
+
+Saída: Exibe um alert com o valor da área do trapézio armazenado em result.
+
+Fim: O fluxo termina.

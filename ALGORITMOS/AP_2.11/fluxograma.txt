@@ -1,0 +1,7 @@
+Início
+Entrada: Solicitar "Nota 1" e armazenar em nota1
+Entrada: Solicitar "Nota 2" e armazenar em nota2
+Entrada: Solicitar "Nota 3" e armazenar em nota3
+Processamento: Calcular a média aritmética das notas: (nota1 + nota2 + nota3) / 3 e armazenar em media
+Saída: Exibir "A média é {media.toFixed(1)}" com alert() (toFixed(1) serve para pegar apenas a primeira casa decimal)
+Fim

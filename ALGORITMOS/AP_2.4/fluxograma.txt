@@ -1,0 +1,12 @@
+Início: O fluxo começa.
+
+Entrada: Exibe um prompt solicitando ao usuário "Digite um número" e armazena o valor inserido na variável numero.
+
+Processo: Converte o valor inserido para o tipo Number e calcula o dobro, armazenando o resultado na variável dobro.
+
+Saída: Exibe um alert com a mensagem "O dobro de numero é dobro".
+
+Fim: O fluxo termina.
+
+
+

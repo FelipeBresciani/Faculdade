@@ -1,0 +1,5 @@
+Entrada: Solicitar "Insira um número" e armazenar em numero
+Processamento 1: Calcular o número inferior (numero - 1) e armazenar em numeroInferior
+Processamento 2: Calcular o número superior (numero + 1) e armazenar em numeroSuperior
+Saída: Exibir "Um a menos = {numeroInferior}, um a mais = {numeroSuperior}" com alert()
+Fim

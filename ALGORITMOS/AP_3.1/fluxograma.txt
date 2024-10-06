@@ -1,0 +1,10 @@
+Início
+Entrada: Solicitar "Insira o primeiro número" e armazenar em numero1
+Entrada: Solicitar "Insira o segundo número" e armazenar em numero2
+Condicional 1: Se numero1 === numero2, então:
+Saída: Exibir "Os números são iguais" com alert()
+Condicional 2: Se numero1 > numero2, então:
+Saída: Exibir "O primeiro número é maior" com alert()
+Senão:
+Saída: Exibir "O segundo número é maior" com alert()
+Fim

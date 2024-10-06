@@ -1,0 +1,6 @@
+Início
+Entrada: Solicitar "Insira o número 1" e armazenar em numero1
+Entrada: Solicitar "Insira o número 2" e armazenar em numero2
+Processamento: Calcular o produto de numero1 e numero2 e armazenar em result
+Saída: Exibir o valor de result com a mensagem "O produto do número 1 e número 2 é ..."
+Fim

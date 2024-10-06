@@ -1,0 +1,22 @@
+Início
+Entrada: Solicitar "Insira o primeiro número" e armazenar em numero1
+Entrada: Solicitar "Insira o segundo número" e armazenar em numero2
+Entrada: Solicitar "Insira o terceiro número" e armazenar em numero3
+Processamento do maior:
+Condicional 1: Se numero1 > numero2 e numero1 > numero3, então:
+maior = numero1
+Condicional 2: Se numero2 > numero1 e numero2 > numero3, então:
+maior = numero2
+Condicional 3: Se numero3 > numero1 e numero3 > numero2, então:
+maior = numero3
+Senão:
+Saída: Exibir "Os números são iguais" com alert()
+Processamento do menor:
+Condicional 4: Se numero1 < numero2 e numero1 < numero3, então:
+menor = numero1
+Condicional 5: Se numero2 < numero1 e numero2 < numero3, então:
+menor = numero2
+Condicional 6: Se numero3 < numero1 e numero3 < numero2, então:
+menor = numero3
+Saída: Exibir "O maior é o {maior} e o menor é o {menor}" com alert()
+Fim

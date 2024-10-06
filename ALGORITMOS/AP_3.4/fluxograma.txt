@@ -1,0 +1,7 @@
+Início
+Entrada: Solicitar "Insira a sua idade" e armazenar em idade
+Condicional: Se idade >= 18 e idade <= 67, então:
+Saída: Exibir "Pode doar" com alert()
+Senão:
+Saída: Exibir "Não pode doar" com alert()
+Fim

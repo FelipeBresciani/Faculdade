@@ -1,0 +1,9 @@
+Início: O fluxo começa.
+
+Entrada: Exibe um prompt solicitando ao usuário "Digite o tamanho do lado do quadrado" e armazena o valor na variável lado.
+
+Processo: Converte o valor inserido para o tipo Number e calcula a área do quadrado multiplicando lado * lado. O resultado é armazenado na variável result.
+
+Saída: Exibe um alert com a mensagem "A área do quadrado é: result".
+
+Fim: O fluxo termina.

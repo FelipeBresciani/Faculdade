@@ -1,0 +1,5 @@
+Início
+Entrada: Solicitar "Valor do produto" e armazenar em valorDoProduto
+Processamento: Calcular o valor com desconto de 10% multiplicando valorDoProduto por 0.9 e armazenar em valorComDesconto
+Saída: Exibir "Valor com 10% de desconto = {valorComDesconto}" com alert()
+Fim

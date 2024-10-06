@@ -1,0 +1,7 @@
+Início
+Entrada: Solicitar "Insira um número" e armazenar em numero
+Condicional: Se numero % 7 === 0, então:
+Saída: Exibir "É múltiplo de 7" com alert()
+Senão:
+Saída: Exibir "Não é múltiplo de 7" com alert()
+Fim

@@ -1,0 +1,5 @@
+Início
+Entrada: Solicitar "Insira o valor do produto" e armazenar em produto
+Processamento: Calcular o valor final aplicando um acréscimo de 20% (produto * 1.2) e armazenar em valorFinal
+Saída: Exibir o valor de valorFinal com alert()
+Fim

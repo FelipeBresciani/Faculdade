@@ -1,0 +1,6 @@
+Início
+Entrada: Solicitar "Valor do produto" e armazenar em produto
+Entrada: Solicitar "Em quantas vezes deseja parcelar" e armazenar em parcelas
+Processamento: Calcular o valor de cada parcela dividindo produto por parcelas e armazenar em valorDaParcela
+Saída: Exibir "Serão {parcelas}x de {valorDaParcela} sem juros" com alert()
+Fim
